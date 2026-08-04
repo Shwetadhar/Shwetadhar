@@ -19,3 +19,58 @@ QA Engineer and Data Analyst with experience across AAA game testing, SaaS appli
 - 📍 Based in London, United Kingdom
 
 ---
+
+---
+
+# 🛠 Tech Stack
+
+### Programming & Query Languages
+
+### Testing & Automation
+
+### Data Analytics & BI
+
+### Databases
+
+### Tools & Platforms
+
+---
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+</p>
+
+### 🧪 Testing & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+- Playwright
+- Cypress
+- Postman
+- Swagger
+- Jira
+- Confluence
+- TestRail
+- Azure DevOps
+
+### 📊 Data Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- SQL
+- Power BI
+- Excel
+- Power Query
+- Data Visualization
+- Business Intelligence
+
+### 🗄 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
